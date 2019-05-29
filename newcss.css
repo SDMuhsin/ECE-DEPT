@@ -9,6 +9,8 @@
 	--pinkish:#f99797;
 	--llgreen:#70d1aa;
 }
+/* utility */
+
 
 /* color scheme */
 .bg-dblue{
@@ -74,9 +76,9 @@ font-family: 'Lora', serif;}
 .whole {
   position: relative;
 	background: linear-gradient(90deg, #000428,#004e92);
-	background-size: 200vw 400vh;
+	background-size: 2000vw 400vh;
 	overflow: hidden;
-	animation: bgColor 7s ease infinite;
+	animation: bgColor 17s ease infinite;
 }
 
 @keyframes bgColor {
